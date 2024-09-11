@@ -1,0 +1,184 @@
+.ui.container {
+	padding: 1em;
+}
+
+body {
+	font-family: Georgia, serif !important;
+}
+
+div {
+	font-family: Georgia, serif !important;
+}
+
+input {
+	font-family: Georgia, serif !important;
+}
+
+textarea {
+	font-family: Georgia, serif !important;
+}
+
+.ui.header {
+	margin: 0.5em;
+	padding-top: 1.5em;
+	font-family: Georgia, serif !important;
+	text-align: center;
+	font-weight: bold;
+}
+
+p {
+	font-size: 15pt;
+	text-align: justify;
+}
+
+.ui.black.button {
+	background-color: #58B7C2;
+	font-family: Georgia, serif !important;
+}
+
+.ui.black.button:hover {
+	background-color: #F45B69;
+	font-family: Georgia, serif !important;
+}
+
+#colour1 {
+	font-weight: bold;
+	font-size: 1.3em;
+}
+
+#colour2 {
+	font-weight: bold;
+	font-size: 1.3em;
+}
+
+#colour3 {
+	font-weight: bold;
+	font-size: 1.3em;
+}
+
+#colour4 {
+	font-weight: bold;
+	font-size: 1.3em;
+}
+
+#colour1:hover {
+	background-color: #F45B69;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 1.3em;
+}
+
+#colour2:hover {
+	background-color: #B99A04;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 1.3em;
+}
+
+#colour3:hover {
+	background-color: #75B876;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 1.3em;
+}
+
+#colour4:hover {
+	background-color: #58B7C2;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 1.3em;
+}
+
+#name {
+	margin-top: -1em;
+}
+
+.description {
+	padding: 0.5em;
+	font-size: 1.2em;
+	text-align: center;
+}
+
+.extra.content {
+	padding: 0.5em;
+	margin-bottom: 0.3em;
+	text-align: center;
+}
+
+#padding {
+	padding-bottom: 2em;
+}
+
+#readPara1 {
+	display: none;
+}
+
+#readPara2 {
+	display: none;	
+}
+
+#readPara3 {
+	display: none;
+}
+
+#readMoreText {
+	text-align: center;
+	padding-top: 5%;
+	font-size: 1em;
+}
+
+.rslides {
+	margin: 0 auto 40px;
+}
+  
+#slider {
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	margin: 2em auto;
+}
+  
+.rslides_tabs {
+	list-style: none;
+	padding: 0;
+	background: white;
+	/*box-shadow: 0 0 1px rgba(255,255,255,.3), inset 0 0 5px rgba(0,0,0,1.0);
+	-moz-box-shadow: 0 0 1px rgba(255,255,255,.3), inset 0 0 5px rgba(0,0,0,1.0);
+	-webkit-box-shadow: 0 0 1px rgba(255,255,255,.3), inset 0 0 5px rgba(0,0,0,1.0);*/
+	font-size: 18px;
+	list-style: none;
+	margin: 0 auto 50px;
+	max-width: 750px;
+	padding: 10px 0;
+	text-align: center;
+	width: 100%;
+}
+  
+.rslides_tabs li {
+	display: inline;
+	float: none;
+	margin-right: 1px;
+}
+  
+.rslides_tabs a {
+	width: auto;
+	line-height: 20px;
+	padding: 9px 20px;
+	height: auto;
+	background: transparent;
+	display: inline;
+}
+  
+.rslides_tabs li:first-child {
+	margin-left: 0;
+}
+  
+.rslides_tabs .rslides_here a {
+	background: rgba(255,255,255,.1);
+	color: #fff;
+	font-weight: bold;
+}
+
+#space {
+	padding-bottom: 1em;
+}
